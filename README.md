@@ -1,5 +1,7 @@
 Deploying a WordPress website on AWS using a three-tier architecture
+
 ![three-tier](https://github.com/user-attachments/assets/9c2d6919-7f2b-4a45-8fff-9bc4d19853e7)
+
 
 
 The three-tier approach ensures the website is scalable and secure. The archiecture includes the database layer, application layer and web layer.
